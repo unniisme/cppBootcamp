@@ -34,3 +34,21 @@ Q3. Input n numbers between 1 to 30, find frequency of each number.
 ### Functions
 Q. For t test cases, print first n natural numbers for input n   
 Possible to do with a loop, but emphasize on modularity and use functions instead
+
+Use a minute to explain.
+- Abstraction: Caller doesn't have to worry about function definition
+- Modularity: Freedom of editing. Function can be edited without editing main code
+- Contract: Explain parameter, parameter types and return type
+
+Convert a bunch of previous questions to function questions
+(maybe ask them to write just functions first)
+
+#### recursion
+Just brief overview. Use fibonacci as example
+
+### Strings
+Emphasize that strings are just a list of characters. Demonstrate
+Show char[] as well as strings separately
+Use ```<string>``` header
+
+Q. Draw an n sided pyramid using '*'

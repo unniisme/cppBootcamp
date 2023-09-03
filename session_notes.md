@@ -45,7 +45,7 @@ Convert a bunch of previous questions to function questions
 (maybe ask them to write just functions first)
 
 #### recursion
-Just brief overview. Use fibonacci as example
+Just brief overview. Use fibonacci/factorial as example
 
 ### Strings
 Emphasize that strings are just a list of characters. Demonstrate  

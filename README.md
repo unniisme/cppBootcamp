@@ -17,7 +17,13 @@
 3. For n inputs between 1 and 30, find frequency of each number
 
 ## Functions
+Re-implement the previous questions using functions
+
+1. Find the second and third maximum element in an array of positive integers
+
 ### Recursion
+1. Calculate n! using recursion
+2. Calculate the nth fibonacci number using recursion
 
 ## Strings
 
@@ -33,11 +39,15 @@ gcc is used to compile C and g++ to compile C++
 Basic gcc commands
 
 ```
-$ g++ [name of file] -o [output name of file]
+$ g++ [name of file] -o [name of output file]
 ```
 note: -o [output name of file] is not neccessary. By default it compiles to a file named `a.out`.
 
 To run the compiled file, simply do
 ```
 $ ./a.out
+```
+or, for file name,
+```
+$ ./[name of output file]
 ```

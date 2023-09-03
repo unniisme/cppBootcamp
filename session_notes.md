@@ -38,6 +38,7 @@ Possible to do with a loop, but emphasize on modularity and use functions instea
 Use a minute to explain.
 - Abstraction: Caller doesn't have to worry about function definition
 - Modularity: Freedom of editing. Function can be edited without editing main code
+- Repeatition: If one has to repeate the same lines of codes multiple times.
 - Contract: Explain parameter, parameter types and return type
 
 Convert a bunch of previous questions to function questions
@@ -47,8 +48,19 @@ Convert a bunch of previous questions to function questions
 Just brief overview. Use fibonacci as example
 
 ### Strings
-Emphasize that strings are just a list of characters. Demonstrate
+Emphasize that strings are just a list of characters. Demonstrate  
 Show char[] as well as strings separately
 Use ```<string>``` header
 
-Q. Draw an n sided pyramid using '*'
+Q. Draw an n sided pyramid using '*'s  
+Q. Write a program that reverses a string
+
+### Pointers
+Start talking about checking the equivalence of 2 strings. Extend to equivalence of arrays. (also sneak in string.compare)  
+Demonstrate a pass by reference function
+
+
+### GCC and linux
+If enough participants have a linux machine, demonstrate basic linux commands such as cd and ls, then show gcc
+
+End with a brief mention of dual boot. Dual boot will be taken in a separate session
